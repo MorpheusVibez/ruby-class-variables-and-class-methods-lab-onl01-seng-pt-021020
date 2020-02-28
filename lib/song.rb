@@ -27,6 +27,6 @@ class Song
   end
 
   def self.genre_count
-    {@@genre => @@genre.count}
+    {@@genres => @@genres.count}
   end
 end

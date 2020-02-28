@@ -14,7 +14,7 @@ class Song
     @genre = song_genre
   end
 
-  def count
-    
+  def self.count
+
   end
 end
